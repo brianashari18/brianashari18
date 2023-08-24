@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianashari18
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on frontend
+- 🌱 I’m currently learning javascript and python
+- 💞️ I want to build website with machine learning
 - 📫 How to reach me ...
 
 <!---
