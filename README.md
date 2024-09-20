@@ -3,9 +3,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGxL_fsR58kPw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1669935675296?e=1732147200&v=beta&t=kbcodREQ_c2d4JUn69Rl0qgGivKsn2lfuMk0kkJx488)](https://github.com/brianashari18)
 
 ## 🌟 About Me
-I am a 5th-semester student with a keen interest in **software technology** and **AI**, and I'm committed to furthering my studies in these areas. I actively participate in organizational activities, focusing on organizing and planning various events. I'm a dedicated and hard-working individual who enjoys exploring new technologies.
+I am a 5th-semester student with a great interest in **software technology** and artificial intelligence (AI). I actively participate in organizing and planning various activities, and I take pride in both leading and collaborating with teams. My dedication to learning and exploring new technologies drives me to continually develop my skills and apply them to real-world projects.
 
-While I’m still building my professional experience, I am passionate about creating **user-centered designs** and continuously enhancing my skills to deliver seamless user experiences. My focus is on learning and applying new technologies to real-world projects.
+Although I do not yet have professional experience, I am committed to continuously learning and participating in activities that enhance my abilities. I hope to create innovative software solutions with a focus on delivering seamless, user-centered experiences. I am always looking for opportunities to grow as a developer and integrate the latest technological advancements into my work.
 
 ## 🚀 My Goals
 - **Expand my skills** in software development and machine learning.
