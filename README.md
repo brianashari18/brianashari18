@@ -12,12 +12,31 @@ Although I do not yet have professional experience, I am committed to continuous
 - **Create impactful** projects that integrate AI and software technologies.
 
 ## 🛠️ Skills
-- **Backend Integration**: Experienced in integrating RESTful APIs and Firebase services.
-- **App Deployment**: Handling app store submissions and deployment processes.
-- **Flutter Development**: Building responsive and high-performance mobile applications with Flutter.
-- **Firebase**: Utilizing Firebase for authentication, real-time databases, and cloud functions.
-- **Golang**: Developing fast, scalable, and reliable backend services using Go (Golang).
-- **MySQL**: Designing and managing relational databases with MySQL.
+- **Backend Development**: Skilled in building robust and scalable backend systems using:
+  - **Golang**: Expertise in Go frameworks like Fiber and Echo for developing fast and reliable services.
+  - **Python**: Proficient in building APIs and web applications with Flask.
+  - **Java**: Developing enterprise-level applications using Spring Boot.
+  - **PHP**: Experienced in creating secure and efficient backend systems with Laravel.
+  - **JavaScript**: Proficient in Node.js for server-side development.
+
+- **Database Management**: Designing, managing, and optimizing relational databases (MySQL) and implementing NoSQL solutions with Firebase Realtime Database.
+
+- **Frontend-Backend Integration**: Seamlessly integrating RESTful APIs with front-end technologies and Firebase services.
+
+- **Full-Stack Development**: Building end-to-end solutions with modern stacks like React (Vite), Tailwind CSS, and Node.js.
+
+- **App Deployment**: Expertise in preparing and deploying mobile and web applications to platforms like the App Store, Google Play, and hosting environments.
+
+- **Cloud Services**: Skilled in utilizing Firebase for:
+  - Authentication
+  - Real-time database solutions
+  - Cloud functions
+
+- **Flutter Development**: Crafting responsive, high-performance mobile applications using Flutter.
+
+- **Version Control**: Proficient in Git for collaborative and efficient development workflows. 
+
+- **Microservices Architecture**: Implementing microservices for scalable and maintainable backend solutions.
 
 ## 🏆 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianashari18)](https://git.io/streak-stats)
@@ -25,37 +44,25 @@ Although I do not yet have professional experience, I am committed to continuous
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianashari18&layout=compact&theme=radical)](https://github.com/brianashari18)
 
 ## 📚 Languages and Tools
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://flutter.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-    </a>
-    <a href="https://golang.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-    </a>
+<p align="left"> 
+    <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> 
+    <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a> 
+    <a href="https://golang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="40" height="40"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> 
+    <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> 
+    <a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> </a> 
+    <a href="https://react.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a> 
+    <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> </a> 
 </p>
 
 
 ## 🌐 Connect with me:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/brian-anashari-099744151/" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" />
