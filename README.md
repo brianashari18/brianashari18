@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Brian Anashari](https://github.com/brianashari18)!
 
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGxL_fsR58kPw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1669935675296?e=1738800000&v=beta&t=NnJnrmfmxm-_7Cx-NUGAY53kbXsnaemluiSs_Kv0XYU)](https://github.com/brianashari18)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGxL_fsR58kPw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1669935675296?e=1757548800&v=beta&t=c9LfP4FIlfYA-2puG90b75CZgYkDOq2vMD6yA7stmVE)](https://github.com/brianashari18)
 
 ## 🌟 About Me
 I am a 5th-semester student with a great interest in **software technology** and artificial intelligence (AI). I actively participate in organizing and planning various activities, and I take pride in both leading and collaborating with teams. My dedication to learning and exploring new technologies drives me to continually develop my skills and apply them to real-world projects.
